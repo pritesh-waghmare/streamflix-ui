@@ -4,7 +4,7 @@ A modern Netflix-inspired streaming platform UI built from scratch using HTML5 a
 
 ## 🚀 Live Demo
 
-[View StreamFlix Live]([https://pritesh-waghmare.github.io/streamflix-ui/])
+[View StreamFlix Live](https://pritesh-waghmare.github.io/streamflix-ui/)
 
 ## ✨ Features
 
